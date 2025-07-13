@@ -59,7 +59,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 50px 150px;
+    padding: 0px 150px;
 }  
 .logo{
      font-size: 34px;
@@ -67,8 +67,9 @@ nav{
 }
 .banner-content{
     text-align: center;
-    max-width: 905px;
-    margin: 100px auto;
+    /* max-width: 905px; */
+    /* margin: 100px auto; */
+    padding: 100px;
 }
 .banner-heading{
      font-size: 65px;
@@ -80,9 +81,9 @@ nav{
     /* Action  */
 
    .action-div-parent{
-    max-width: 1140px;
+    /* max-width: 1140px; */
     /* height: 328px; */
-    margin: 116px auto;
+    padding:  116px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -239,9 +240,9 @@ nav{
                /* Conatct */
 
        .Contact-parents{
-        max-width: 1140px;
+        /* max-width: 1140px; */
         /* height: 632px; */
-        margin: 92px auto;
+          padding:  116px;
         display: flex;
         align-items: center;
         justify-content: space-between;
